@@ -7,4 +7,5 @@ PyTorch learning notes of Elliot, including all kinds of demos of PyTorch
 ```
 conda install numpy
 conda install scikit-learn
+conda install matplotlib
 ```

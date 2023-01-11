@@ -29,14 +29,31 @@ conda config --set show_channel_urls yes
 
 ```
 conda config --add channels conda-forge
+
 conda config --set channel_priority flexible
 ```
 
-### 3. Install pytorch
+### 4. Install pytorch
 
 ```
 conda install pytorch torchvision torchaudio
 ```
+
+&nbsp;
+
+### 5. Install torchviz
+
+
+```
+
+pip install git+https://githubfast.com/szagoruyko/pytorchviz
+
+conda install git
+```
+
+
+
+
 
 
 

@@ -44,14 +44,19 @@ conda install pytorch torchvision torchaudio
 ### 5. Install torchviz
 
 
+- 5-1) Download pytorchviz from github
+
 ```
 
-pip install git+https://githubfast.com/szagoruyko/pytorchviz
+https://githubfast.com/szagoruyko/pytorchviz
 
-conda install git
 ```
 
-
+- 5-2) Install from source
+```
+cd /Users/kg/Downloads
+pip3 install torchviz-0.0.2.tar.gz
+```
 
 
 

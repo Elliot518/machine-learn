@@ -56,7 +56,34 @@ https://githubfast.com/szagoruyko/pytorchviz
 ```
 cd /Users/kg/Downloads
 pip3 install torchviz-0.0.2.tar.gz
+
+pip3 install pytorchviz-master.zip
+
+conda install graphviz
+
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

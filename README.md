@@ -63,6 +63,13 @@ conda install graphviz
 
 ```
 
+&nbsp;
+
+### 6. Python environment
+
+```
+pip3 install mumpy
+```
 
 
 
